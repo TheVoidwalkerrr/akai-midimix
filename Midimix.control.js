@@ -86,7 +86,6 @@ function onMidi(status, index, value)
       var channel = trackBank.getChannel(trackIndex);
       if (value == 0) {
         channel.getMute().toggle();
-        sendNoteOn(0, trackIndex, 0);
       }
       return;
     }
