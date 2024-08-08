@@ -1,6 +1,6 @@
 loadAPI(2);
 
-host.defineController("Akai", "MIDI Mix", "1.0", "127e1d40-d43c-11e6-9598-0800200c9a66", "V01DWLKR");
+host.defineController("Akai", "MIDI Mix", "1.0", "127e1d40-d43c-11e6-9598-0800200c9a66");
 host.defineMidiPorts(1, 1);
 host.addDeviceNameBasedDiscoveryPair(["MIDI Mix"], ["MIDI Mix"]);
 
