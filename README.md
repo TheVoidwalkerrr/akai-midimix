@@ -12,5 +12,3 @@ MIT. See the LICENSE file.
 # Credits
 
 Arakash92
-
-TheVoidwalkerrr
